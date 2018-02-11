@@ -1,1 +1,2 @@
 the second text on git repository!
+before add
